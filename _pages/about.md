@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Pedro Contreras
+date: 2025-03-15
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+Arctic Data map

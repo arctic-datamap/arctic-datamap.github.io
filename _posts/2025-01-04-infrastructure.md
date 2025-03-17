@@ -1,13 +1,12 @@
 ---
-title: Tips, Warnings, and Dangers
-author: Tao He
-date: 2022-06-30
-category: Jekyll
+title: Infrastructure
+author: Pedro Contreras
+date: 2025-01-04
+category: data
 layout: post
 ---
 
-This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
-from [the discord.js website][1].
+This page will hold the Infrastructure data portal
 
 You could have the following [markdown attributes (supported by kramdown)][2]:
 
