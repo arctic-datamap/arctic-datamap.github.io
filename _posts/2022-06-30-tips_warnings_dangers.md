@@ -1,8 +1,8 @@
 ---
-title: Infrastructure
-author: Pedro Contreras
-date: 2025-01-04
-category: data
+title: Tips, Warnings, and Dangers
+author: Tao He
+date: 2022-06-30
+category: Jekyll
 layout: post
 ---
 
