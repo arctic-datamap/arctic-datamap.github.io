@@ -10,57 +10,49 @@ This page will hold the Infrastructure data portal
 
 You could have the following [markdown attributes (supported by kramdown)][2]:
 
-### Tips
+- Item 1
+- Item 2
+- Item 3
 
-Using a `{: .block-tip}` attribute:
+* Item 1
+* Item 2
+* Item 3
 
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
++ Item 1
++ Item 2
++ Item 3
 
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
 
-### Warnings
 
-Using a `{: .block-warning}` attribute:
 
-```markdown
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
-```
+### Oil & Gas
 
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
+PORTAL D
 
-### Dangers
+PORTAL E
 
-Using a `{: .block-danger}` attribute:
+PORTAL F
 
-```markdown
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
-```
+### Energy
 
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
+PORTAL D
 
-[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[2]: https://kramdown.gettalong.org/quickref.html#block-attributes
+PORTAL E
+
+PORTAL F
+
+### Telecommunications
+
+PORTAL D
+
+PORTAL E
+
+PORTAL F
+
+### wind
+
+PORTAL G
+
+PORTAL H
+
+PORTAL I

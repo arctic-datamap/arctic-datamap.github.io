@@ -4,7 +4,7 @@ title: Arctic Data Map
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+The Arctic Data Map is a landscape exercise to collect in one place data related to the arctic.
 
 ## Demo
 
@@ -13,14 +13,7 @@ Live demo on Github Pages: [https://arctic-datamap.github.io/](https://arctic-da
 
 ## What is the Arctic Data Map
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eros mi, ornare sed turpis sit amet, sodales aliquam eros. Ut fringilla augue nec neque porta aliquam. Aliquam malesuada massa vitae elit semper, in scelerisque lorem venenatis. Morbi eleifend diam eu massa facilisis, a placerat nisi pretium. Sed sit amet volutpat quam, in finibus massa. Nullam mollis nec erat ac dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+Nullam imperdiet purus mauris, ac lacinia metus blandit porta. Sed nisl eros, convallis non mi non, suscipit ultricies mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mattis quam nec tellus auctor tincidunt. Curabitur porttitor tellus tristique ipsum elementum, vitae ornare erat porttitor. Nulla rutrum egestas augue eu ullamcorper. Fusce varius maximus tortor in mollis. Nunc ex mi, interdum eget laoreet eget, vestibulum quis felis. Nunc nec velit magna. Quisque condimentum mauris ante, eu malesuada nulla tristique sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras non volutpat lacus. Sed non malesuada enim, ac fringilla metus. Nulla in varius arcu.
 
