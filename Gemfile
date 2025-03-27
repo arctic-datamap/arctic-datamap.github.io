@@ -10,4 +10,6 @@ gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-toc'
 
-# gem "rails"
+gem "rails"
+
+gem "eventmachine", "~> 1.2"
